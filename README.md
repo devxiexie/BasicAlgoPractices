@@ -1,2 +1,2 @@
 # Basic Algorithms Practice
-7/8 start
+7/8 Start
